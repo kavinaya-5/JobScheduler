@@ -86,6 +86,6 @@ This project demonstrates basic backend scheduling concepts and Java programming
 
 ## Author
 
-Cutie  
+Kavinayasri M
 2025
 " > README.md
